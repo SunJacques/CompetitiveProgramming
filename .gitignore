@@ -1,0 +1,6 @@
+.cph
+*.bin
+.vscode
+*.in
+*.out
+.DS_Store
